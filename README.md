@@ -21,6 +21,7 @@ Contact
 Vous pouvez me joindre via :
 
 Email : ugomatassa@gmail.com
+
 LinkedIn : www.linkedin.com/in/ugo-matassa
 
 N'hésitez pas à me contacter pour discuter de nouvelles opportunités, de collaborations ou simplement pour échanger sur le développement web !
